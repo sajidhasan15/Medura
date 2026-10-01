@@ -6,19 +6,19 @@ const DOCTORS = [
     name: "Dr. Edwards",
     specialty: "Cardiologist",
     surface: "bg-[#F5F0FF]",
-    image: "https://headless.sajidhasan.dev/wp-content/uploads/2026/09/693174541424a72b6557ad7d_image-194.webp",
+    image: "https://api.sajidhasan.dev/wp-content/uploads/2026/10/693174541424a72b6557ad7d_image-194.webp",
   },
   {
     name: "Dr. Devon",
     specialty: "Ophthalmologist",
     surface: "bg-[#F5F0FF]",
-    image: "https://headless.sajidhasan.dev/wp-content/uploads/2026/09/69317454fd63428bc167d337_image-197.webp",
+    image: "https://api.sajidhasan.dev/wp-content/uploads/2026/10/69317454fd63428bc167d337_image-197.webp",
   },
   {
     name: "Dr. Hawkins",
     specialty: "Dermatologist",
     surface: "bg-[#F5F0FF]",
-    image: "https://headless.sajidhasan.dev/wp-content/uploads/2026/09/69317454e025598c352b3a26_image-198.webp",
+    image: "https://api.sajidhasan.dev/wp-content/uploads/2026/10/69317454e025598c352b3a26_image-198.webp",
   },
 ];
 
